@@ -21,8 +21,10 @@ The full version includes a basic python script that allows one to just select a
 # Requirements
 
 1. The MCD 5.3 Full version. In order to obtain a copy of the MCD v5.3 contact forget@lmd.jussieu.fr or millour@lmd.jussieu.fr.
-
 2. ffmpeg. 
+3. numpy.
+4. Basemap.
+5. matplotlib.
 
 # Colab
 The following notebook MCDMovie.ipynb run on Colab provides access to the MCDMovie.
