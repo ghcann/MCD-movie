@@ -28,9 +28,6 @@ Furthermore, modifying the script to take into account that each different longi
 4. Basemap.
 5. matplotlib.
 
-# Colab
-The following notebook MCD-movie.ipynb run on Colab provides access to the MCD-movie.
-
 # Contact
 George Cann, Department of Space and Climate Physics (Mullard Space Science Laboratory), University College London.
 Email: george.cann.15@ucl.ac.uk. 
