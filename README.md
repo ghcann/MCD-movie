@@ -5,9 +5,6 @@ MCD-movie utilises the Mars Climate Database full version 5.3 to generate global
 1. MCD-movie example images.
 ![Teaser image](./images/mcd-movie-grid.jpg)
 
-2. MCD-movie example images. 
-![Teaser image](./images/test1.jpg)
-
 The goal of MCD-movie is used to generate visualisations of the Martian atmosphere. MCD-movie, through the MCD, offers the possibility generating a very large synthetic database of Martian atmospheric imagery, which could be linked to MSSS MRO MARCI weather imagery, http://www.msss.com/msss_images/subject/weather_reports.html. 
 
 The data used to create the visualisations is from the Mars Climate Database (MCD) (Version 5.2). The Mars Climate Database is a database which contains the output of a Global Climate Model. The GCM was developed predominately by the LMD with contributions from the OU, Oxford, ESA and CNES and the Instituto de Astrofisica de Andalucia and is validated using observational data. 
