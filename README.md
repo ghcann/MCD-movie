@@ -3,7 +3,7 @@
 MCD-movie utilises the Mars Climate Database full version 5.3 to generate global visualisations of Mars and the Martian atmosphere. 
 
 1. MCD-movie example images.
-![Teaser image](./images/test0.jpg)
+![Teaser image](./images/mcd-movie-grid.jpg)
 
 2. MCD-movie example images. 
 ![Teaser image](./images/test1.jpg)
