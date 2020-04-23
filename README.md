@@ -22,11 +22,14 @@ Furthermore, modifying the script to take into account that each different longi
 
 # Requirements
 
-1. The MCD 5.3 Full version. In order to obtain a copy of the MCD v5.3 contact forget@lmd.jussieu.fr or millour@lmd.jussieu.fr.
+1. The MCD 5.3 Full version. In order to obtain a copy of the MCD v5.3 contact forget@lmd.jussieu.fr or millour@lmd.jussieu.fr. 
 2. ffmpeg. 
 3. numpy.
 4. Basemap.
 5. matplotlib.
+
+# Run
+After installing MCD 5.3 Full version run mcd-movie-global-data-creator.py. This will generate the necessary .txt files for use with mcd-movie.py. This was done to bypass different Python 2 and 3 dependancies with Basemap and the MCD.
 
 # Contact
 George Cann, Department of Space and Climate Physics (Mullard Space Science Laboratory), University College London.
